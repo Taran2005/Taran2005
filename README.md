@@ -34,21 +34,6 @@ No LeetCode. Codeforces only. There's something about getting TLE on Div2 C at 2
   </a>
 </p>
 
-<br/>
-
-## Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taran2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Taran2005&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taran2005&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="95%"/>
-</p>
-
-<br/>
-
 ## Hot Takes
 
 > **Tabs** over spaces. Not debatable.
