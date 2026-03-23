@@ -1,25 +1,3 @@
-<div align="center">
-
-```
-                                     ___           ___           ___           ___           ___
-      ___          /\  \         /\  \         /\  \         /\__\         /\  \
-     /\  \        /::\  \       /::\  \       /::\  \       /::|  |       /::\  \
-     \:\  \      /:/\:\  \     /:/\:\  \     /:/\:\  \     /:|:|  |      /:/\:\  \
-      \:\  \    /::\~\:\  \   /::\~\:\  \   /::\~\:\  \   /:/|:|  |__   /:/  \:\  \
-  ___  \:\__\  /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/ |:| /\__\ /:/__/ \:\__\
- /\  \ |:|  |  \/__\:\/:/  / \/_|::\/:/  / \/__\:\/:/  / \/__|:|/:/  / \:\  \ /:/  /
- \:\  \|:|  |       \::/  /     |:|::/  /       \::/  /      |:/:/  /   \:\  /:/  /
-  \:\__|:|__|        \/__/      |:|\/__/        /:/  /       |::/  /     \:\/:/  /
-   \::::/__/                    |:|  |         /:/  /        /:/  /       \::/  /
-    ~~~~                         \|__|         \/__/         \/__/         \/__/
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Full+Stack+Dev+%7C+Codeforces+Grinder;I+ship+things+that+occasionally+work)](https://git.io/typing-svg)
-
-</div>
-
----
-
 I write code that sometimes works on the first try. Full stack dev who lives in the terminal and mass-submits on Codeforces at 3am. I build things for the web — backends, frontends, the stuff in between that nobody wants to touch.
 
 If it runs on a server or a browser, I've probably broken it at least once.
