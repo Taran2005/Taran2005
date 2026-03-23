@@ -49,36 +49,14 @@ If the badge is red, I'm having a good week. If it's grey, don't ask.
 
 ---
 
-### What I'm Probably Doing Right Now
+### Hot Takes
 
-```python
-import random
-from datetime import datetime
-
-activities = [
-    "mass submitting WA on Codeforces",
-    "refactoring code I wrote yesterday because past me was an idiot",
-    "fighting JavaScript — TypeScript exists for a reason",
-    "deploying to prod on a Friday",
-    "googling 'why is my docker container 2gb'",
-    "writing a Go service that nobody asked for",
-    "staring at a segfault in C++",
-    "mass deleting node_modules because JS ecosystem is a circus",
-]
-
-hour = datetime.now().hour
-if 2 <= hour <= 6:
-    print("sleeping... probably. or on Codeforces. 50/50.")
-else:
-    print(random.choice(activities))
-```
-
----
-
-### The Graveyard
-
-> Projects I started at 1am and abandoned by 3am.
-> We don't talk about those. Check my repos if you're brave.
+- Tabs over spaces. Not debatable.
+- TypeScript exists because JavaScript can't be trusted.
+- If your Docker image is over 500MB, that's a skill issue.
+- Python for scripting, Go for services, C++ for pain.
+- Dark mode or I'm closing your website.
+- `console.log` debugging is valid and I will die on this hill.
 
 ---
 
