@@ -39,26 +39,29 @@ No LeetCode. Codeforces only. There's something about getting TLE on Div2 C at 2
 ## Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taran2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Taran2005&theme=github-dark-blue&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taran2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Taran2005&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taran2005&theme=github-compact&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taran2005&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="95%"/>
 </p>
 
 <br/>
 
 ## Hot Takes
 
-| Opinion | Stance |
-|---|---|
-| Tabs vs Spaces | Tabs. Not debatable. |
-| JavaScript | TypeScript exists because JS can't be trusted. |
-| Docker images over 500MB | Skill issue. |
-| Language picking | Python for scripting, Go for services, C++ for pain. |
-| Light mode | Dark mode or I'm closing your website. |
-| Debugging | `console.log` is valid and I will die on this hill. |
+> **Tabs** over spaces. Not debatable.
+>
+> TypeScript exists because **JavaScript can't be trusted.**
+>
+> Docker image over 500MB? That's a **skill issue.**
+>
+> Python for scripting. Go for services. C++ for **pain.**
+>
+> Dark mode or I'm **closing your website.**
+>
+> `console.log` debugging is valid and I will **die on this hill.**
 
 <br/>
 
